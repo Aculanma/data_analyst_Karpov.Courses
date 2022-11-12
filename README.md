@@ -4,6 +4,7 @@
 
 **Навигация**  
 
+### KarpovCourses.Python
 1. Блок Python  
   1.1 ВВЕДЕНИЕ В ПИТОН И ИНТЕРФЕЙС JUPYTER-NOTEBOOK  
   1.2 ЗНАКОМСТВО С PANDAS  
