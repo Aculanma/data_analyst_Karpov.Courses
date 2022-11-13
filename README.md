@@ -19,13 +19,20 @@
 
 
 ### [Блок SQL](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.SQL)  
-  2.1 ВВЕДЕНИЕ И ОПЕРАТОРЫ  
-  2.2 ГРУППИРОВКА И АГРЕГАТНЫЕ ФУНКЦИИ  
-  2.3 ОБЪЕДИНЕНИЕ ТАБЛИЦ – JOIN  
-  2.4 ТИПЫ ДАННЫХ И ИХ ПРЕОБРАЗОВАНИЕ  
-  2.5 ПОДЗАПРОСЫ, ПРЕДСТАВЛЕНИЯ, СОЗДАНИЕ ТАБЛИЦ  
-  2.6 ETL (PYTHON + SQL)  
-  2.7 ГРАФИКИ, ДАШБОРДЫ И МОНИТОРИНГИ
+1. ВВЕДЕНИЕ И ОПЕРАТОРЫ 
+    [Урок 1. ВВЕДЕНИЕ И ОПЕРАТОРЫ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%201.%20%D0%92%D0%92%D0%95%D0%94%D0%95%D0%9D%D0%98%D0%95%20%D0%98%20%D0%9E%D0%9F%D0%95%D0%A0%D0%90%D0%A2%D0%9E%D0%A0%D0%AB.ipynb)   
+2. ГРУППИРОВКА И АГРЕГАТНЫЕ ФУНКЦИИ  
+    [Урок 2. ГРУППИРОВКА И АГРЕГАТНЫЕ ФУНКЦИИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%202.%20%D0%93%D0%A0%D0%A3%D0%9F%D0%9F%D0%98%D0%A0%D0%9E%D0%92%D0%9A%D0%90%20%D0%98%20%D0%90%D0%93%D0%A0%D0%95%D0%93%D0%90%D0%A2%D0%9D%D0%AB%D0%95%20%D0%A4%D0%A3%D0%9D%D0%9A%D0%A6%D0%98%D0%98.ipynb)  
+3. ОБЪЕДИНЕНИЕ ТАБЛИЦ – JOIN  
+    [Урок 3. ОБЪЕДИНЕНИЕ ТАБЛИЦ – JOIN](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%203.%20%D0%9E%D0%91%D0%AA%D0%95%D0%94%D0%98%D0%9D%D0%95%D0%9D%D0%98%D0%95%20%D0%A2%D0%90%D0%91%D0%9B%D0%98%D0%A6%20%E2%80%93%20JOIN.ipynb)  
+4. ТИПЫ ДАННЫХ И ИХ ПРЕОБРАЗОВАНИЕ  
+    [Урок 4. ТИПЫ ДАННЫХ И ИХ ПРЕОБРАЗОВАНИЕ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%204.%20%D0%A2%D0%98%D0%9F%D0%AB%20%D0%94%D0%90%D0%9D%D0%9D%D0%AB%D0%A5%20%D0%98%20%D0%98%D0%A5%20%D0%9F%D0%A0%D0%95%D0%9E%D0%91%D0%A0%D0%90%D0%97%D0%9E%D0%92%D0%90%D0%9D%D0%98%D0%95.ipynb)    
+5. ПОДЗАПРОСЫ, ПРЕДСТАВЛЕНИЯ, СОЗДАНИЕ ТАБЛИЦ  
+    [Урок 5. ПОДЗАПРОСЫ, ПРЕДСТАВЛЕНИЯ, СОЗДАНИЕ ТАБЛИЦ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%205.%20%D0%9F%D0%9E%D0%94%D0%97%D0%90%D0%9F%D0%A0%D0%9E%D0%A1%D0%AB%2C%20%D0%9F%D0%A0%D0%95%D0%94%D0%A1%D0%A2%D0%90%D0%92%D0%9B%D0%95%D0%9D%D0%98%D0%AF%2C%20%D0%A1%D0%9E%D0%97%D0%94%D0%90%D0%9D%D0%98%D0%95%20%D0%A2%D0%90%D0%91%D0%9B%D0%98%D0%A6.ipynb)  
+6. ETL (PYTHON + SQL)  
+    [Урок 6. ETL (PYTHON + SQL)](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%206.%20ETL%20(PYTHON%20%2B%20SQL).ipynb)    
+7. ГРАФИКИ, ДАШБОРДЫ И МОНИТОРИНГИ  
+    [Урок 7. ГРАФИКИ, ДАШБОРДЫ И МОНИТОРИНГИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%207.%20%D0%93%D0%A0%D0%90%D0%A4%D0%98%D0%9A%D0%98%2C%20%D0%94%D0%90%D0%A8%D0%91%D0%9E%D0%A0%D0%94%D0%AB%20%D0%98%20%D0%9C%D0%9E%D0%9D%D0%98%D0%A2%D0%9E%D0%A0%D0%98%D0%9D%D0%93%D0%98.ipynb)  
   
 3. Блок Statistics  
   3.1 ОСНОВНЫЕ ПОНЯТИЯ СТАТИСТИКИ  
