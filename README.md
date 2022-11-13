@@ -4,7 +4,7 @@
 
 **Навигация**  
 
-### KarpovCourses.Python
+### [KarpovCourses.Python](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.Python)
 1. Блок Python  
   1.1 ВВЕДЕНИЕ В ПИТОН И ИНТЕРФЕЙС JUPYTER-NOTEBOOK  
   1.2 ЗНАКОМСТВО С PANDAS  
