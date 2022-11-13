@@ -6,7 +6,7 @@
 
 ### [KarpovCourses.Python](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.Python)
 1. Блок Python  
-                1.1 ВВЕДЕНИЕ В ПИТОН И ИНТЕРФЕЙС JUPYTER-NOTEBOOK    
+1.1 ВВЕДЕНИЕ В ПИТОН И ИНТЕРФЕЙС JUPYTER-NOTEBOOK    
   [Урок 1. ВВЕДЕНИЕ В ПИТОН И ИНТЕРФЕЙС JUPYTER-NOTEBOOK](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.Python/%D0%A3%D1%80%D0%BE%D0%BA%201.%20%D0%92%D0%92%D0%95%D0%94%D0%95%D0%9D%D0%98%D0%95%20%D0%92%20%D0%9F%D0%98%D0%A2%D0%9E%D0%9D%20%D0%98%20%D0%98%D0%9D%D0%A2%D0%95%D0%A0%D0%A4%D0%95%D0%99%D0%A1%20JUPYTER-NOTEBOOK/%D0%A3%D1%80%D0%BE%D0%BA%201.%20%D0%92%D0%92%D0%95%D0%94%D0%95%D0%9D%D0%98%D0%95%20%D0%92%20%D0%9F%D0%98%D0%A2%D0%9E%D0%9D%20%D0%98%20%D0%98%D0%9D%D0%A2%D0%95%D0%A0%D0%A4%D0%95%D0%99%D0%A1%20JUPYTER-NOTEBOOK.ipynb)      
   1.2 ЗНАКОМСТВО С PANDAS  
   1.3 ПРОДВИНУТЫЙ PANDAS И ЗНАКОМСТВО С ВИЗУАЛИЗАЦИЕЙ НА PYTHON  
