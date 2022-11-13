@@ -2,7 +2,7 @@
 
 Здесь выложены все задачи с проектами, решенные мною на курсе Karpov.Courses! (P.S. Репо будет пополняться со временем)
 
-# **Навигация**  
+# **Содержание**  
 
 ### [Блок Python](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.Python) 
 1. ВВЕДЕНИЕ В ПИТОН И ИНТЕРФЕЙС JUPYTER-NOTEBOOK    
