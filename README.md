@@ -18,9 +18,9 @@
 
 
 
-### [Блок SQL](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.SQL)  
-1. ВВЕДЕНИЕ И ОПЕРАТОРЫ 
-    [Урок 1. ВВЕДЕНИЕ И ОПЕРАТОРЫ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%201.%20%D0%92%D0%92%D0%95%D0%94%D0%95%D0%9D%D0%98%D0%95%20%D0%98%20%D0%9E%D0%9F%D0%95%D0%A0%D0%90%D0%A2%D0%9E%D0%A0%D0%AB.ipynb)   
+### [Блок SQL](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.SQL)    
+1. ВВЕДЕНИЕ И ОПЕРАТОРЫ   
+    [Урок 1. ВВЕДЕНИЕ И ОПЕРАТОРЫ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%201.%20%D0%92%D0%92%D0%95%D0%94%D0%95%D0%9D%D0%98%D0%95%20%D0%98%20%D0%9E%D0%9F%D0%95%D0%A0%D0%90%D0%A2%D0%9E%D0%A0%D0%AB.ipynb)     
 2. ГРУППИРОВКА И АГРЕГАТНЫЕ ФУНКЦИИ  
     [Урок 2. ГРУППИРОВКА И АГРЕГАТНЫЕ ФУНКЦИИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%202.%20%D0%93%D0%A0%D0%A3%D0%9F%D0%9F%D0%98%D0%A0%D0%9E%D0%92%D0%9A%D0%90%20%D0%98%20%D0%90%D0%93%D0%A0%D0%95%D0%93%D0%90%D0%A2%D0%9D%D0%AB%D0%95%20%D0%A4%D0%A3%D0%9D%D0%9A%D0%A6%D0%98%D0%98.ipynb)  
 3. ОБЪЕДИНЕНИЕ ТАБЛИЦ – JOIN  
