@@ -16,7 +16,9 @@
 4. РАБОТА С ГРЯЗНЫМИ ДАННЫМИ  
     [Урок 4. РАБОТА С ГРЯЗНЫМИ ДАННЫМИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.Python/%D0%A3%D1%80%D0%BE%D0%BA%204.%20%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%90%20%D0%A1%20%D0%93%D0%A0%D0%AF%D0%97%D0%9D%D0%AB%D0%9C%D0%98%20%D0%94%D0%90%D0%9D%D0%9D%D0%AB%D0%9C%D0%98/%D0%A3%D1%80%D0%BE%D0%BA%204.%20%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%90%20%D0%A1%20%D0%93%D0%A0%D0%AF%D0%97%D0%9D%D0%AB%D0%9C%D0%98%20%D0%94%D0%90%D0%9D%D0%9D%D0%AB%D0%9C%D0%98.ipynb)    
 
-2. Блок SQL  
+
+
+### [Блок SQL](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.SQL)  
   2.1 ВВЕДЕНИЕ И ОПЕРАТОРЫ  
   2.2 ГРУППИРОВКА И АГРЕГАТНЫЕ ФУНКЦИИ  
   2.3 ОБЪЕДИНЕНИЕ ТАБЛИЦ – JOIN  
