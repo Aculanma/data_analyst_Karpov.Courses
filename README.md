@@ -34,8 +34,9 @@
 7. ГРАФИКИ, ДАШБОРДЫ И МОНИТОРИНГИ  
     [Урок 7. ГРАФИКИ, ДАШБОРДЫ И МОНИТОРИНГИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%207.%20%D0%93%D0%A0%D0%90%D0%A4%D0%98%D0%9A%D0%98%2C%20%D0%94%D0%90%D0%A8%D0%91%D0%9E%D0%A0%D0%94%D0%AB%20%D0%98%20%D0%9C%D0%9E%D0%9D%D0%98%D0%A2%D0%9E%D0%A0%D0%98%D0%9D%D0%93%D0%98.ipynb)  
   
-3. Блок Statistics  
-  3.1 ОСНОВНЫЕ ПОНЯТИЯ СТАТИСТИКИ  
+### [Блок Statistics](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.Statistics)    
+1. ОСНОВНЫЕ ПОНЯТИЯ СТАТИСТИКИ  
+    [Проект. ОСНОВНЫЕ ПОНЯТИЯ СТАТИСТИКИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.Statistics/%D0%A3%D1%80%D0%BE%D0%BA%201.%20%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%9D%D0%AB%D0%95%20%D0%9F%D0%9E%D0%9D%D0%AF%D0%A2%D0%98%D0%AF%20%D0%A1%D0%A2%D0%90%D0%A2%D0%98%D0%A1%D0%A2%D0%98%D0%9A%D0%98/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%9D%D0%AB%D0%95%20%D0%9F%D0%9E%D0%9D%D0%AF%D0%A2%D0%98%D0%AF%20%D0%A1%D0%A2%D0%90%D0%A2%D0%98%D0%A1%D0%A2%D0%98%D0%9A%D0%98.ipynb)  
   3.2 ПРОВЕРКА ГИПОТЕЗ  
   3.3 СТАТИСТИЧЕСКИЙ ВЫВОД  
   3.4 СРАВНЕНИЕ СРЕДНИХ ЗНАЧЕНИЙ (T-ТЕСТ)  
