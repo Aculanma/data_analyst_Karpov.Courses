@@ -46,4 +46,4 @@
 5. СРАВНЕНИЕ СРЕДНИХ ЗНАЧЕНИЙ (ДИСПЕРСИОННЫЙ АНАЛИЗ)  
     [Проект. СРАВНЕНИЕ СРЕДНИХ ЗНАЧЕНИЙ (ДИСПЕРСИОННЫЙ АНАЛИЗ)](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.Statistics/%D0%A3%D1%80%D0%BE%D0%BA%205.%20%D0%A1%D0%A0%D0%90%D0%92%D0%9D%D0%95%D0%9D%D0%98%D0%95%20%D0%A1%D0%A0%D0%95%D0%94%D0%9D%D0%98%D0%A5%20%D0%97%D0%9D%D0%90%D0%A7%D0%95%D0%9D%D0%98%D0%99%20(%D0%94%D0%98%D0%A1%D0%9F%D0%95%D0%A0%D0%A1%D0%98%D0%9E%D0%9D%D0%9D%D0%AB%D0%99%20%D0%90%D0%9D%D0%90%D0%9B%D0%98%D0%97)/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%A1%D0%A0%D0%90%D0%92%D0%9D%D0%95%D0%9D%D0%98%D0%95%20%D0%A1%D0%A0%D0%95%D0%94%D0%9D%D0%98%D0%A5%20%D0%97%D0%9D%D0%90%D0%A7%D0%95%D0%9D%D0%98%D0%99%20(%D0%94%D0%98%D0%A1%D0%9F%D0%95%D0%A0%D0%A1%D0%98%D0%9E%D0%9D%D0%9D%D0%AB%D0%99%20%D0%90%D0%9D%D0%90%D0%9B%D0%98%D0%97).ipynb)  
   
-### [Промежуточный проект](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/Project%231(e-com))  
+### [Промежуточный проект](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/Project%231(e-com)/Project%231(e-com).ipynb)  
