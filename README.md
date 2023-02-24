@@ -6,7 +6,7 @@
 
 Программа курса:
 
-Курс содержит 10 основных модулей:
+Курс содержит из следующих модулей:
 
 1. [Python](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.Python) - заложим фундамент: освоим основы программирования, познакомимся с библиотеками для анализа данных, визуализации и работы с файловой системой. Будет непросто, но крутые аналитики обязаны знать эти инструменты. С первого дня начнем работать на удалённом сервере, все по-настоящему!  
 Уроки:    
@@ -29,9 +29,16 @@
     - [ПОДЗАПРОСЫ, ПРЕДСТАВЛЕНИЯ, СОЗДАНИЕ ТАБЛИЦ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%205.%20%D0%9F%D0%9E%D0%94%D0%97%D0%90%D0%9F%D0%A0%D0%9E%D0%A1%D0%AB%2C%20%D0%9F%D0%A0%D0%95%D0%94%D0%A1%D0%A2%D0%90%D0%92%D0%9B%D0%95%D0%9D%D0%98%D0%AF%2C%20%D0%A1%D0%9E%D0%97%D0%94%D0%90%D0%9D%D0%98%D0%95%20%D0%A2%D0%90%D0%91%D0%9B%D0%98%D0%A6.ipynb)  
     - [ETL (PYTHON + SQL)](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%206.%20ETL%20(PYTHON%20%2B%20SQL).ipynb)    
     - [ГРАФИКИ, ДАШБОРДЫ И МОНИТОРИНГИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%207.%20%D0%93%D0%A0%D0%90%D0%A4%D0%98%D0%9A%D0%98%2C%20%D0%94%D0%90%D0%A8%D0%91%D0%9E%D0%A0%D0%94%D0%AB%20%D0%98%20%D0%9C%D0%9E%D0%9D%D0%98%D0%A2%D0%9E%D0%A0%D0%98%D0%9D%D0%93%D0%98.ipynb)
-    - [ОКОННЫЕ ФУНКЦИИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%208.%20%D0%9E%D0%9A%D0%9E%D0%9D%D0%9D%D0%AB%D0%95%20%D0%A4%D0%A3%D0%9D%D0%9A%D0%A6%D0%98%D0%98.ipynb)
-
-
+    - [ОКОННЫЕ ФУНКЦИИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.SQL/%D0%A3%D1%80%D0%BE%D0%BA%208.%20%D0%9E%D0%9A%D0%9E%D0%9D%D0%9D%D0%AB%D0%95%20%D0%A4%D0%A3%D0%9D%D0%9A%D0%A6%D0%98%D0%98.ipynb)  
+4. Теория вероятностей  
+5. Статистика  
+6. Промежуточный проект  
+7. Визуализация  
+8. Развитие продукта  
+9. Продуктовая аналитика  
+10. Airflow  
+11. Как искать работу  
+12. Финальный проект
 
 ### [Блок Statistics](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.Statistics)    
 Урок 1. [Проект. ОСНОВНЫЕ ПОНЯТИЯ СТАТИСТИКИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/blob/main/KarpovCourses.Statistics/%D0%A3%D1%80%D0%BE%D0%BA%201.%20%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%9D%D0%AB%D0%95%20%D0%9F%D0%9E%D0%9D%D0%AF%D0%A2%D0%98%D0%AF%20%D0%A1%D0%A2%D0%90%D0%A2%D0%98%D0%A1%D0%A2%D0%98%D0%9A%D0%98/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%9D%D0%AB%D0%95%20%D0%9F%D0%9E%D0%9D%D0%AF%D0%A2%D0%98%D0%AF%20%D0%A1%D0%A2%D0%90%D0%A2%D0%98%D0%A1%D0%A2%D0%98%D0%9A%D0%98.ipynb)  
