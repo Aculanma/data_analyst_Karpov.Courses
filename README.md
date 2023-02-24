@@ -14,7 +14,7 @@
     - [ЗНАКОМСТВО С PANDAS](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.Python/%D0%A3%D1%80%D0%BE%D0%BA%202.%20%D0%97%D0%9D%D0%90%D0%9A%D0%9E%D0%9C%D0%A1%D0%A2%D0%92%D0%9E%20%D0%A1%20PANDAS)      
     - [ПРОДВИНУТЫЙ PANDAS И ЗНАКОМСТВО С ВИЗУАЛИЗАЦИЕЙ НА PYTHON](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.Python/%D0%A3%D1%80%D0%BE%D0%BA%203.%20%D0%9F%D0%A0%D0%9E%D0%94%D0%92%D0%98%D0%9D%D0%A3%D0%A2%D0%AB%D0%99%20PANDAS%20%D0%98%20%D0%97%D0%9D%D0%90%D0%9A%D0%9E%D0%9C%D0%A1%D0%A2%D0%92%D0%9E%20%D0%A1%20%D0%92%D0%98%D0%97%D0%A3%D0%90%D0%9B%D0%98%D0%97%D0%90%D0%A6%D0%98%D0%95%D0%99%20%D0%9D%D0%90%20PYTHON)    
     - [РАБОТА С ГРЯЗНЫМИ ДАННЫМИ](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.Python/%D0%A3%D1%80%D0%BE%D0%BA%204.%20%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%90%20%D0%A1%20%D0%93%D0%A0%D0%AF%D0%97%D0%9D%D0%AB%D0%9C%D0%98%20%D0%94%D0%90%D0%9D%D0%9D%D0%AB%D0%9C%D0%98)  
-    - ВРЕМЯ И СВОДНЫЕ ТАБЛИЦЫ
+    - [ВРЕМЯ И СВОДНЫЕ ТАБЛИЦЫ](https://github.com/Aculanma/data_analyst_Karpov.Courses/tree/main/KarpovCourses.Python/%D0%A3%D1%80%D0%BE%D0%BA%205.%20%D0%92%D0%A0%D0%95%D0%9C%D0%AF%20%D0%98%20%D0%A1%D0%92%D0%9E%D0%94%D0%9D%D0%AB%D0%95%20%D0%A2%D0%90%D0%91%D0%9B%D0%98%D0%A6%D0%AB)  
     - ОКОННЫЕ ФУНКЦИИ И ИНТЕРАКТИВНЫЕ ГРАФИКИ
     - API (GOOGLE SPREADSHEETS, ЯНДЕКС.МЕТРИКА)
     - ПРОДВИНУТЫЕ ТЕМЫ PANDAS И ЗАДАНИЯ СО ЗВЁЗДОЧКОЙ 
